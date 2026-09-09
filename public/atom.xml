@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>rust-config</title>
+  <link href="https://sebastienrousseau.com/rust-config/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sebastienrousseau.com/rust-config"/>
+  <id>https://sebastienrousseau.com/rust-config</id>
+  <updated></updated>
+  <entry>
+    <title>Installation — @sebastienrousseau/rust-config</title>
+    <link href="https://sebastienrousseau.com/rust-config/installation/"/>
+    <id>https://sebastienrousseau.com/rust-config/installation/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to install and set up @sebastienrousseau/rust-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Model Context Protocol (MCP) — @sebastienrousseau/rust-config</title>
+    <link href="https://sebastienrousseau.com/rust-config/mcp/"/>
+    <id>https://sebastienrousseau.com/rust-config/mcp/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Model Context Protocol configuration for @sebastienrousseau/rust-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Reference — @sebastienrousseau/rust-config</title>
+    <link href="https://sebastienrousseau.com/rust-config/reference/"/>
+    <id>https://sebastienrousseau.com/rust-config/reference/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Reference specifications and options for @sebastienrousseau/rust-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+  <entry>
+    <title>Usage — @sebastienrousseau/rust-config</title>
+    <link href="https://sebastienrousseau.com/rust-config/usage/"/>
+    <id>https://sebastienrousseau.com/rust-config/usage/</id>
+    <updated></updated>
+    <published></published>
+    <summary>How to use and configure @sebastienrousseau/rust-config.</summary>
+    <author><name>Unknown</name></author>
+  </entry>
+</feed>

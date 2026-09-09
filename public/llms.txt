@@ -1,0 +1,5 @@
+# rust-config
+
+> Shareable Rust configuration providing standardized rustfmt and clippy rules adhering to modern 2026 standards.
+
+Language: en-GB

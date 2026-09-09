@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "description": "How to install and set up @sebastienrousseau/rust-config.",
+  "display": "standalone",
+  "name": "rust-config",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "CF",
+  "start_url": ".",
+  "theme_color": null
+}
