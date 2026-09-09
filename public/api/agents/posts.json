@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable Rust configuration providing standardized rustfmt and clippy rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/rust-config — Shareable Rust configuration standards for rustfmt and clippy.",
+    "url": "https://sebastienrousseau.com/rust-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/rust-config.",
     "locale": "en-GB",

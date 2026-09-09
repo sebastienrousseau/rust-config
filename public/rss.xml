@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Untitled</title>
-    <link>https://sebastienrousseau.com/rust-config</link>
-    <description></description>
+    <title>@sebastienrousseau/rust-config — Shareable Rust configuration standards for rustfmt and clippy.</title>
+    <link>https://sebastienrousseau.com/rust-config/</link>
+    <description>Shareable Rust configuration providing standardized rustfmt and clippy rules adhering to modern 2026 standards.</description>
     <atom:link href="https://sebastienrousseau.com/rust-config/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+    <copyright>© 2026 Sebastien Rousseau. Licensed under Apache-2.0 OR MIT.</copyright>
     <item>
       <title>Installation — @sebastienrousseau/rust-config</title>
       <link>https://sebastienrousseau.com/rust-config/installation/</link>

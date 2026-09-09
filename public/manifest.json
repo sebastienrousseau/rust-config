@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "How to install and set up @sebastienrousseau/rust-config.",
+  "description": "Shareable Rust configuration providing standardized rustfmt and clippy rules adhering to modern 2026 standards.",
   "display": "standalone",
   "name": "rust-config",
   "orientation": "portrait-primary",
