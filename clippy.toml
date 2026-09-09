@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: Apache-2.0 OR MIT
+cognitive-complexity-threshold = 25
+too-many-arguments-threshold = 8
+type-complexity-threshold = 250
+doc-valid-idents = ["GitHub", "GitLab", "JavaScript", "TypeScript", "WebAssembly"]
