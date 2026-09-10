@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable Rust configuration standards providing hardened rustfmt formatting and pedantic Clippy lints.
 
 ---
@@ -22,11 +23,13 @@ Shareable Rust configuration standards providing hardened rustfmt formatting and
 ## Feature & Property Reference
 
 ### 1. rustfmt.toml
+
 - **Description**: Deterministic rustfmt formatting preset enforcing 100 max width, reordered imports, and comment wrapping.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. clippy.toml
+
 - **Description**: Pedantic Clippy lint configuration alerting on needless borrows, arithmetic overflow risks, and unchecked unwrap calls.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
