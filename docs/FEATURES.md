@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. rustfmt.toml
+
 Deterministic rustfmt formatting preset enforcing 100 max width, reordered imports, and comment wrapping. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. clippy.toml
+
 Pedantic Clippy lint configuration alerting on needless borrows, arithmetic overflow risks, and unchecked unwrap calls. Designed to guarantee deterministic behavior across all development and continuous integration environments.
