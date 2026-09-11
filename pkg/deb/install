@@ -1,0 +1,9 @@
+index.js usr/share/nodejs/@sebastienrousseau/rust-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/rust-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/rust-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/rust-config/
+rustfmt.toml usr/share/nodejs/@sebastienrousseau/rust-config/
+clippy.toml usr/share/nodejs/@sebastienrousseau/rust-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/rust-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/rust-config/
+package.json usr/share/nodejs/@sebastienrousseau/rust-config/
